@@ -10,7 +10,7 @@ Groc depends on [Pygments](http://pygments.org/) to generate documentation. Foll
 Install this plugin with the following command:
 
 ```js
-npm install grunt-groc --save-dev
+npm install git+https://github.com/hahehihohu/grunt-groc.git --save-dev
 ```
 
 Load the plugin in your Gruntfile.js:
