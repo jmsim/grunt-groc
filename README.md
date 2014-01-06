@@ -1,17 +1,19 @@
 grunt-groc
 ================
 
-A simple grunt task to generate a project's documentation using [Groc](http://nevir.github.com/groc/)
+A simple grunt task to generate a project's documentation using Gilt's [Groc](https://github.com/gilt/groc)
+(forked from Nevir's [Groc](http://nevir.github.com/groc/)).
 
 Groc depends on [Pygments](http://pygments.org/) to generate documentation. Follow the installation instructions [here](http://pygments.org/docs/installation/).
 
-This fork is based on [Gilt Groc](https://github.com/gilt/groc)
+More capabilities of Gilt's Groc can be found [here](http://tech.gilt.com/post/57089759513/rock-your-doc-with-groc-our-favorite-automated).
+
 
 ### Usage
 Install this plugin with the following command:
 
 ```js
-npm install git+https://github.com/hahehihohu/grunt-groc.git --save-dev
+npm install git+https://github.com/vtjm/grunt-groc.git --save-dev
 ```
 
 Load the plugin in your Gruntfile.js:
