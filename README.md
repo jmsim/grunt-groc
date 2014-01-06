@@ -5,6 +5,7 @@ A simple grunt task to generate a project's documentation using [Groc](http://ne
 
 Groc depends on [Pygments](http://pygments.org/) to generate documentation. Follow the installation instructions [here](http://pygments.org/docs/installation/).
 
+This fork is based on [Gilt Groc](https://github.com/gilt/groc)
 
 ### Usage
 Install this plugin with the following command:
