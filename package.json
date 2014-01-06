@@ -24,7 +24,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "groc": "~0.6.0"
+    "groc": "git+https://github.com/gilt/groc.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
